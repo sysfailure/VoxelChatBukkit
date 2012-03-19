@@ -1,0 +1,6 @@
+name: VoxelChatBukkit
+main: com.thevoxelbox.voxelchatbukkit.VoxelChatBukkit
+version: 1.0.2
+website: http://voxelwiki.com/minecraft/
+author: psanker
+description: Allows chat bubbles with xT's mod!
